@@ -1,5 +1,6 @@
 
 First React project on Next.JS
+
 Using Tailwind CSS and TypeScript
 
 
