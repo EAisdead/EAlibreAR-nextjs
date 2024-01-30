@@ -1,7 +1,8 @@
 import api from "@/api";
 import Image from "next/image";
 import type { Metadata } from "next";
-import { ealibre } from "@/app/layout";
+
+const ealibre = " | EAlibre AR.";
 
 export async function generateMetadata({
   params: { id },

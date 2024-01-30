@@ -1,7 +1,8 @@
 import api from "@/api";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { ealibre } from "../layout";
+
+const ealibre = " | EAlibre AR.";
 
 export async function generateMetadata(): Promise<Metadata> {
   return {
